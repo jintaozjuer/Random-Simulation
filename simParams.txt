@@ -1,0 +1,20 @@
+500
+12
+2.5
+100
+110
+20
+40
+6
+3
+
+the parameters above mean:
+<closing time>
+<rider arrival mean>
+<rider arrival stddev>
+<car arrival min>
+<car arrival max>
+<percentage of riders that are super fast pass>
+<percentage of riders that are fast pass>
+<number of super fast pass riders admitted>
+<number of fast pass riders admitted>
